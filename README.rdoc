@@ -24,5 +24,18 @@ Things you may want to cover:
 * ...
 
 
+Setup
+`git clone repo`
+
+`cd repoDir`
+
+`rvm install ruby 2.3.1`
+
+`rvm use ruby 2.3.1`
+
+`gem install middleman`
+
+
+
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
